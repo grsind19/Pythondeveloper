@@ -1,0 +1,14 @@
+Space microwave might have roles
+
+Commander
+Pilot
+FLight engineer
+
+Mission control
+Nutionist
+
+Other computer systems
+
+PrepareFood
+
+Monitor

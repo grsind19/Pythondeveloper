@@ -1,0 +1,29 @@
+3 essential goals
+
+Title
+Actor
+Steps
+
+Heat the meal
+Any entity
+Inserts the meal package, System identifies type of meal. System heats
+for the specified time etc
+
+Or Steps
+1. Inserts meal
+2. identifies the meal type
+etc
+
+Extensions:
+2a
+2b
+
+Preconditions:
+Post conditions
+Secondary actors
+Stake holders
+
+
+Not more than two days in use cases
+
+Writing effective use casesby Alistair

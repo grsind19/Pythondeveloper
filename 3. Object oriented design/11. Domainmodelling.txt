@@ -1,0 +1,15 @@
+conceptual model
+Most impart objects and relationshop between them
+what are the things I need to aware of
+
+Identifying objects
+System --
+spaceship
+Area
+Asteroid
+Missile
+Player
+Direction
+Path
+Offscreen--
+

@@ -1,0 +1,17 @@
+Functionality - Capability, Features
+Usability - Human factors, Aesthetics, Docs
+Reliability - Availability, failure rate, 
+Performance - Speed, Effieciency
+Support - Testability, Extendtability
+
+Furps +
+
+1. Design
+2. Implementation
+3. Interface
+4. Physical
+
+Software que
+Karl wiegers
+
+Mastering the requiremet process

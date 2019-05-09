@@ -1,0 +1,28 @@
+What are the functional requirements
+Non functional requirements
+Legal 
+Performance
+Support
+
+What is the problem client wants to solve ?
+
+Why the client wants to do something?
+
+Common Traps:
+What it really needs to do ?
+
+FUnctional Req:
+
+1. System Must:
+Heat food and space packages
+Notifiy the user when is ready
+
+Non functional Req:
+1. How the app should me
+LED
+Usability
+Releability
+Able to work any hand gloves
+
+
+

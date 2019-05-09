@@ -1,0 +1,17 @@
+Turn on microwave
+
+User focused goals
+
+Omit eedless words/details
+
+active voice
+system sends pager message
+
+screen
+click
+button
+select
+
+Who performs system administration tasks ?
+Who manages users and security
+What happens if the system fail?

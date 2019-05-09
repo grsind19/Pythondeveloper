@@ -1,0 +1,12 @@
+Single small scenarion
+
+what and why
+Not focus on the system
+
+Index cards - short and sweet
+
+As a type of user
+i want goal
+so that (reason)
+
+Leave the user interface out of interface

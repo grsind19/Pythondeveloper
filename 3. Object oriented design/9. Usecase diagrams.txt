@@ -1,0 +1,13 @@
+HEAT MEAL
+GENERATE REPORTS
+CHANGE SETTINGS
+
+
+Draw elipcises 
+Draw box include all the use cases
+
+Which actors which use cases
+
+
+primary actors on the left side, secondary on the rigt side
+
