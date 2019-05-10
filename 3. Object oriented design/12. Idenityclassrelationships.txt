@@ -1,0 +1,29 @@
+Map the relations ships between object
+
+Nouns - Objects
+Verbs - Responsibilities/Behaviours
+
+An object should be responsible for itself
+
+CRC - Corda
+
+Class
+Responslity
+Collabration
+
+
+ClassName:
+
+Responsibilities  Collabrators
+
+CRH - Helpers
+
+
+Conceptual Model diagrams
+
+Solution:
+
+Identify the Objects - Nouns from use case System, User, Library, Queue
+
+
+
