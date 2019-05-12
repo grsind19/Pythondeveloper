@@ -1,0 +1,32 @@
+SOLID
+
+Single Responsibility principle
+Open/Closed principle
+Liskov substitution principle
+Interface segregation principle
+Dependency inversion principle
+
+
+
+NO God Obects
+
+DRY
+
+Dont repeat yourself
+
+Yagni
+
+Code Smell
+
+Software Testing 
+
+Design patterns
+Reusable form of a solution to a design problem
+Factory Method patterns
+Gang of 4
+
+Creational patterns
+Structurel patterns
+Behavioural patterns
+
+Head first design patterns

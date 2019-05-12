@@ -1,0 +1,25 @@
+UML class diagram
+
+ClassName
+Attributes
+Behavious
+
+---------
+spaceShip
+----------
+- callSign:String
+- shiedlActive;Boolean
+- shieldStrength:Integrer
+- position:Coordinate
+----------
++ getShieldStrenth
+- reduceSheild(Integer):Integer
++ getPosition
+- move
+- setPosition
+-----------
+
++Attributes
+
+- Attributes - Not directly accessible
+
